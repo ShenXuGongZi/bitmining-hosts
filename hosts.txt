@@ -1,0 +1,18 @@
+#矿池ip
+127.0.0.1 btc.f2pool.com
+127.0.0.1 eth-backup.f2pool.com
+127.0.0.1 eth.f2pool.com
+127.0.0.1 ethssl-asia.f2pool.com
+127.0.0.1 ethssl-euro.f2pool.com
+127.0.0.1 ethssl-na.f2pool.com
+127.0.0.1 us.ss.btc.com
+127.0.0.1 eu.ss.btc.com
+127.0.0.1 sg.ss.btc.com
+127.0.0.1 eu-eth.ss.btc.com
+127.0.0.1 us-eth.ss.btc.com
+127.0.0.1 sg-eth.ss.btc.com
+127.0.0.1 ss.antpool.com
+127.0.0.1 stratum-eth.antpool.com
+127.0.0.1 btc.viabtc.io
+127.0.0.1 bitcoin.viabtc.io
+127.0.0.1 ethereum.viabtc.io
